@@ -1,0 +1,354 @@
+[
+    {
+        "proxy": "socks4://36.92.81.181:4145",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "0.610763"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "0.974998"
+            }
+        ],
+        "total_time": 1.585761
+    },
+    {
+        "proxy": "http://117.250.3.58:8080",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "2.359984"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "0.425759"
+            }
+        ],
+        "total_time": 2.785743
+    },
+    {
+        "proxy": "http://178.48.68.61:18080",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "2.525711"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "0.312906"
+            }
+        ],
+        "total_time": 2.8386169999999997
+    },
+    {
+        "proxy": "http://35.185.196.38:3128",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "1.77906"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "1.344007"
+            }
+        ],
+        "total_time": 3.123067
+    },
+    {
+        "proxy": "http://20.72.218.43:8080",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "2.330203"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "1.359871"
+            }
+        ],
+        "total_time": 3.690074
+    },
+    {
+        "proxy": "socks4://23.19.244.109:1080",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "2.340063"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "1.474079"
+            }
+        ],
+        "total_time": 3.8141419999999995
+    },
+    {
+        "proxy": "socks4://31.170.22.127:1080",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "2.717862"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "1.408156"
+            }
+        ],
+        "total_time": 4.126018
+    },
+    {
+        "proxy": "http://104.234.157.169:21278",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "2.507911"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "1.950987"
+            }
+        ],
+        "total_time": 4.458898
+    },
+    {
+        "proxy": "http://189.232.88.177:8080",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "2.64745"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "2.121774"
+            }
+        ],
+        "total_time": 4.7692239999999995
+    },
+    {
+        "proxy": "socks4://45.138.87.238:1080",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "3.155523"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "1.934205"
+            }
+        ],
+        "total_time": 5.089728
+    },
+    {
+        "proxy": "http://89.250.88.12:3128",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "5.051441"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "0.321996"
+            }
+        ],
+        "total_time": 5.373437
+    },
+    {
+        "proxy": "socks4://103.121.39.158:1080",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "5.217652"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "0.359396"
+            }
+        ],
+        "total_time": 5.5770480000000004
+    },
+    {
+        "proxy": "socks4://200.41.182.243:4145",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "3.903888"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "2.006152"
+            }
+        ],
+        "total_time": 5.91004
+    },
+    {
+        "proxy": "http://45.11.95.166:6009",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "3.229245"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "3.484435"
+            }
+        ],
+        "total_time": 6.71368
+    },
+    {
+        "proxy": "socks4://178.79.165.164:22179",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "3.480857"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "3.283179"
+            }
+        ],
+        "total_time": 6.764036
+    },
+    {
+        "proxy": "socks4://148.72.212.252:60384",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "3.560927"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "4.534902"
+            }
+        ],
+        "total_time": 8.095829
+    },
+    {
+        "proxy": "socks5://178.79.165.164:48526",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "4.082314"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "4.2005"
+            }
+        ],
+        "total_time": 8.282814
+    },
+    {
+        "proxy": "socks5://51.79.87.144:22500",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "7.037242"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "3.30202"
+            }
+        ],
+        "total_time": 10.339262
+    },
+    {
+        "proxy": "http://47.252.20.121:8009",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "10.835997"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "1.032226"
+            }
+        ],
+        "total_time": 11.868223
+    },
+    {
+        "proxy": "socks5://43.155.144.131:15673",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "6.176132"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "5.809875"
+            }
+        ],
+        "total_time": 11.986007
+    },
+    {
+        "proxy": "http://140.238.247.9:8100",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "6.977457"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "5.258813"
+            }
+        ],
+        "total_time": 12.236270000000001
+    },
+    {
+        "proxy": "socks5://103.234.27.170:1080",
+        "websites": [
+            {
+                "website": "https://shopee.co.id",
+                "success": true,
+                "speed": "6.699248"
+            },
+            {
+                "website": "https://google.com",
+                "success": true,
+                "speed": "6.053818"
+            }
+        ],
+        "total_time": 12.753066
+    }
+]
